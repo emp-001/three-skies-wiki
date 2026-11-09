@@ -1,0 +1,5 @@
+It would be difficult to model all of the unique plant species on the continent, and how they differ from those on our world. However, they all follow some general rules:
+
+- Grass and trees are very much still a thing. However, the planet's star is much brighter, with a bluer tone. The sky is a much deeper blue, almost indigo, and chlorophyll absorb more blue light. As a result, leaves are usually yellow, orange and red, instead of green. Many plants also have purple leaves, from bacterial photosynthesisers. Some regions even have white-leaved plants.
+- Like animals, flora has a much higher metal content. Therefore, they tend to have a metallic shimmer and are a little sturdier. Some leaves may even look like sheafs of gold, copper or even iron.
+- To keep things practical for players, when a plant species is referenced, they will always have the type of plant as a suffix. So a *Eche-Flower*, or a *Duda-Tree*, for example.
