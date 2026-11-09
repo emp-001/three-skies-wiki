@@ -44,7 +44,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: catthode
+      theme: tokyo-night
       mode: both
   - source: github:oilandrust/quartz-infobox-plugin
     enabled: true
