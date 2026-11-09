@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Lora
+      body: Nunito
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -41,6 +41,13 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: github:oilandrust/quartz-infobox-plugin
+    enabled: true
+    options:
+      fallbackToNoteTags: true
+    layout:
+      position: right
+      priority: 5
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
@@ -110,6 +117,11 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      fontOrigin: googleFonts
+      body: Nunito
+      header: Lora
+      code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
