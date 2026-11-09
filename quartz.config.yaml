@@ -41,6 +41,11 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
+  - source: "@quartz-themes/core"
+    enabled: true
+    options:
+      theme: catthode
+      mode: both
   - source: github:oilandrust/quartz-infobox-plugin
     enabled: true
     options:
@@ -152,7 +157,7 @@ plugins:
       enableRSS: true
       rssSlug: feed
   - source: github:quartz-community/favicon
-    enabled: true
+    enabled: false
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname
@@ -171,7 +176,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -184,7 +189,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
