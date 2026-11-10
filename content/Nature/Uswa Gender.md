@@ -11,6 +11,8 @@ This article will focus on how gender is understood within the core nations of T
 | **C - Dam  <br>pron.  <br>'Daym'** | External + Mind | She/Her         | Gathering, Fishing, Trading, Leading, Negotiating, Child Siring | Weaker, Shorter  | Smart, Bold, Fast, Confident | Practical, Bright/Colourful, More Coverage |
 | **D - Tou**                        | External + Body | They/  <br>Them | Hunting, Labouring, Fighting                                    | Stronger, Taller | Bold, Fast, Brave            | Most Practical, Darker, Less Coverage      |
 
+---
+
 Though the exact age and rituals vary, gender is typically assigned by older family members or community elders during a coming-of-age ceremony in early adulthood.
 
 Fluidity and changing of gender is a religious matter. Followers of the True Faith commonly hold that gender is chosen by the Virtuous Aspects, and elders merely interpret their vision for an individual. As such, the process for changing ones gender is long and complex; comparable to securing a divorce in Medieval Europe on our world. Conforming to one's assigned gender is regarded as moral and proper.
@@ -24,7 +26,6 @@ Broadly speaking, among cultures that allow it, it is easier to change to anothe
 There is not an even distribution of genders. The numbers of any particular gender in a community can change according to current needs and issues.
 
 In times of war, there may be a mass die-off of Dams and Tous, such that some cultures allow gender change to rebalance society.  
- 
 
 | ← Relatively Less Common |          |     |         |     |         | Relatively More Common → |
 | ------------------------ | -------- | --- | ------- | --- | ------- | ------------------------ |

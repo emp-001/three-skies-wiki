@@ -23,9 +23,13 @@ Known now as the Voices, they ruled Oluk and led armies of liberated slaves to c
 
 The religion grew slowly at first going from town to town, spread by missionaries and Faithful from Oluk. but eventually, many in the military castes of their cities saw it as an opportunity to cast down their priestly overlords, and it gained traction in Iruchu.
 
-One story from the early days of the True Faith tells of Captain Gemut and the Golden Legion. Gemut had been dispatched by the realm of the Fire-God Paje, the largest of the temple-realms. Gemut ambushed the army of the Voices, and prepared to execute them, but could not raise his blade, overcome by their song. Pledging himself to the New Faith, he returned to his masters and slew them, melting down the idol of Paje and claiming its realm for the Faith.
+One story from the early days of the True Faith tells of Captain Gemut and the Golden Legion. Gemut had been dispatched by the realm of the Fire-God Paje, the largest of the temple-realms. 
 
-Spreading too via peaceful means, missionaries carried the True Faith to Tuklua and Prakan via the waterways. Though temple-bondage was not so common there, it spread well amongst the common folk, and the elite merchants of Prakan saw it as a way to weaken the powerful priestly class that sapped their wealth through tithes. Conversion was slower in Tuklua, where local ancestor gods were respected, and even to this day, the Faith is only nominally accepted in rural areas. Political upheval, and their consumption of Prakanch culture saw the Tuklut elites gradually accept the True Faith, syncretising it with their own faith and passing it down onto their people.
+Gemut ambushed the army of the Voices, and prepared to execute them, but could not raise his blade, overcome by their song. Pledging himself to the New Faith, he returned to his masters and slew them, melting down the idol of Paje and claiming its realm for the Faith.
+
+Spreading too via peaceful means, missionaries carried the True Faith to Tuklua and Prakan via the waterways. Though temple-bondage was not so common there, it spread well amongst the common folk, and the elite merchants of Prakan saw it as a way to weaken the powerful priestly class that sapped their wealth through tithes. 
+
+Conversion was slower in Tuklua, where local ancestor gods were respected, and even to this day, the Faith is only nominally accepted in rural areas. Political upheval, and their consumption of Prakanch culture saw the Tuklut elites gradually accept the True Faith, syncretising it with their own faith and passing it down onto their people.
 
 ## Beliefs
 
@@ -53,14 +57,13 @@ The Virtuous Aspects are seen as something between demi-gods and saints. Each re
 
 ##### Life as Movement
 
-Founded in old Ruchun philosophy, followers of the Faith believe the world is made from motes, which gathered together in the form of the Total-God, who then created meaning and purpose from them - before they were just ash and dust swirling in nothingness. Consciousness, the soul, is seen as movement and change of these motes within the body. When the motes are completely still, there is no life, until the motes are made to move again in some other form. Movement and energy can transfer aspects of one set of motes to another.
+Founded in old Ruchun philosophy, followers of the Faith believe the world is made from motes, which gathered together in the form of the Total-God, who then created meaning and purpose from them - before they were just ash and dust swirling in nothingness. 
+
+Consciousness, the soul, is seen as movement and change of these motes within the body. When the motes are completely still, there is no life, until the motes are made to move again in some other form. Movement and energy can transfer aspects of one set of motes to another.
 
 All life is said to originate from the movement of the Total-God. As life is movement, all life that exists is echoes or ripples of Its movement in what is known as the Great Chain. As the Total-God slumbers, there has not been new movement put into the world for thousands of years; the Virtuous and Vicious Aspects are merely echoes themselves.
 
 Worship is seen as returning some of this movement into the gods, with higher beings like the Uswa producing and returning more of this movement. The Vicious Aspects keep the energy gained from worship to themselves, whilst the Virtuous Aspects return it to the earth, where it slowly empowers the Total-God.
-
-> [!Did you know?]
-> The name for the Uswa species in Siychur is derived from 'those that echo'.
 
 Because of their connection to energy and movement, fire and flowing water are common symbols of the True Faith.
 
