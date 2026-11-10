@@ -16,6 +16,7 @@ infobox:
   tags:
     - Three-Skies
     - Faction
+  showTags: false
 ---
 ***Itolkanwa*, or the League of Three Copper Skies**, usually known as just Three Skies, is a federation of a dozen nations spanning over half of the continent. It is the largest and most powerful empire the world has seen, rivalled only by [[Uwced]] in the distant north.
 

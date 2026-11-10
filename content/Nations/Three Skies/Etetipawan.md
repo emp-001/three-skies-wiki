@@ -12,7 +12,7 @@ infobox:
     - Demonym: Pawani
   images:
     - label: ""
-      image: Three-Skies/Attachments/Etetipawan Flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Attachments/Etetipawan%20Flag.png
       caption: ""
   supertitle: Client Confederation
   tags:
