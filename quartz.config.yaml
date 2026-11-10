@@ -279,7 +279,8 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: catthode
+      mode: both
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
