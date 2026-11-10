@@ -41,7 +41,6 @@ configuration:
         tertiary: "#cc7600"
         highlight: "transparent"
         textHighlight: "#ffaa00"
-        textHighlight: "#ffaa00"
 plugins:
   - source: github:oilandrust/quartz-infobox-plugin
     enabled: true
