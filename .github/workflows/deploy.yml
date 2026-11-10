@@ -68,6 +68,16 @@ jobs:
           ln -s "$GITHUB_WORKSPACE/content" quartz-engine/content
           cp quartz.config.yaml quartz.lock.json quartz-engine/
 
+      - name: Use custom favicon
+        run: |
+          SRC="$GITHUB_WORKSPACE/content/Assets/favicon.png"
+          if [ -f "$SRC" ]; then
+            mkdir -p quartz-engine/quartz/static
+            cp "$SRC" quartz-engine/quartz/static/icon.png
+          else
+            echo "::warning::content/Assets/favicon.png not found, keeping Quartz's default icon"
+          fi
+
       - name: Install dependencies
         if: steps.quartz-deps-cache.outputs.cache-hit != 'true'
         working-directory: quartz-engine

@@ -155,7 +155,7 @@ plugins:
       enableRSS: true
       rssSlug: feed
   - source: github:quartz-community/favicon
-    enabled: false
+    enabled: true
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname
