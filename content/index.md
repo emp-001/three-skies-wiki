@@ -16,5 +16,5 @@ property:
 
 ---
 
-Thanks to Alex, Cam, Gwen and Rory for their worldbuilding support and Gauthier for his patient help with the website.
+Thanks to Alex, Cam, Gwen and Rory for their worldbuilding support and Gauthier for his patient help with this website.
 
