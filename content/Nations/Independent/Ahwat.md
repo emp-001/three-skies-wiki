@@ -12,7 +12,7 @@ infobox:
     - Demonym: Ahwat
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/ahwat-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Ahwat%20Flag.png
       caption: ""
   supertitle: Confederation
   tags:
