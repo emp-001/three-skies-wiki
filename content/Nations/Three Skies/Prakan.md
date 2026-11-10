@@ -11,9 +11,12 @@ infobox:
     - Population: Tens of Millions
     - Demonym: Prakanch
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Prakan%20Flag.png?raw=true
       caption: Flag of the League of Flowers
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Prakan-Map.png?raw=true
+      caption: ""
   supertitle: League
   tags:
     - Nation

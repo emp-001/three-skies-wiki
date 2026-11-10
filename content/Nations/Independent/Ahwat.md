@@ -11,8 +11,11 @@ infobox:
     - Population: Hundreds of Thousands
     - Demonym: Ahwat
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Ahwat%20Flag.png?raw=true
+      caption: ""
+    - label: Map
+      image: " https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Ahwat-Map.png?raw=true"
       caption: ""
   supertitle: Confederation
   tags:

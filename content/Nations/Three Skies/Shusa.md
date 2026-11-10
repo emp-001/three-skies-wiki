@@ -11,7 +11,7 @@ infobox:
     - Population: Tens of Thousands
     - Demonym: Shusa
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Shusa%20Flag.png?raw=true
       caption: ""
   supertitle: Migratory People

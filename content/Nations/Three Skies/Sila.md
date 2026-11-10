@@ -13,8 +13,11 @@ infobox:
     - Population: Millions
     - Demonym: Silan
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Silla%20Flag.png?raw=true
+      caption: ""
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Sila-Map.png?raw=true
       caption: ""
   supertitle: Tributary Kingdom
   tags:

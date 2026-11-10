@@ -13,13 +13,17 @@ infobox:
     - Population: Around One Million
     - Demonym: Chupachi
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Chupash%20Flag.png?raw=true
+      caption: ""
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Chupash-Map.png?raw=true
       caption: ""
   supertitle: Territory
   tags:
     - Nation
     - Three-Skies
+  showTags: false
 ---
 ##### ***Marshland Farmers***
 

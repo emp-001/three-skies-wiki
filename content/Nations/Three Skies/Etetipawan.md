@@ -11,8 +11,11 @@ infobox:
     - Population: Tens of Millions
     - Demonym: Pawani
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Etetipawan.png?raw=true
+      caption: ""
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Etetipawan-Map.png?raw=true
       caption: ""
   supertitle: Client Confederation
   tags:

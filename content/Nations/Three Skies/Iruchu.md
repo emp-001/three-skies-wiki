@@ -13,9 +13,12 @@ infobox:
     - Population: Millions
     - Demonym: Ruchun
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Iruchu%20Flag.png?raw=true
       caption: Flag of the Ruchun King
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Iruchu-Map.png?raw=true
+      caption: ""
   supertitle: Kingdom
   tags:
     - Nation

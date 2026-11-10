@@ -13,8 +13,11 @@ infobox:
     - Population: Hundreds of Thousands
     - Demonym: Lath
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Latti%20Flag.png?raw=true
+      caption: ""
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Latti-Map.png?raw=true
       caption: ""
   supertitle: Territory
   showTags: false

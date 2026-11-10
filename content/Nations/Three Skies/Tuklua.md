@@ -13,9 +13,12 @@ infobox:
     - Population: Millions
     - Demonym: Tuklut
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Tuklua%20Flag.png?raw=true
       caption: Flag of the Tuklut High King
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Tuklua-Map.png?raw=true
+      caption: ""
   supertitle: High Kingdom
   tags:
     - Nation

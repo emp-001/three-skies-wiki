@@ -11,9 +11,12 @@ infobox:
     - Population: Over Fifty Million
     - Demonym: Uwceg • Imperial
   images:
-    - label: ""
+    - label: Flag
       image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Uqe%20Flag.png?raw=true
-      caption: Flag of the Imperial Brood of Uwced
+      caption: Flag of the Brood of Uwced. Each dot represents one 'generation' of the Brood.
+    - label: Map
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Regional%20Maps/Uwced-Map.png?raw=true
+      caption: ""
   supertitle: Empire
   tags:
     - Nation
