@@ -13,6 +13,7 @@ configuration:
     - templates
     - .obsidian
   theme:
+    defaultMode: dark
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
@@ -25,7 +26,7 @@ configuration:
         lightgray: "#e2e2e6"
         gray: "#8e8e93"
         darkgray: "#18181b"
-        dark: '#18181b; } .center a, .center a:visited, .footer a, .footer a:visited { color: #ff9500 !important; text-decoration: none !important; background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } .center a:hover, .footer a:hover { color: #cc7600 !important; } h1, h2, h1 a, h2 a { color: #000000 !important; } h3, h4, h5, h6 { color: #444444 !important; } .internal { background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } :focus { outline: none !important;'
+        dark: "#000000"
         secondary: "#ff9500"
         tertiary: "#cc7600"
         highlight: "transparent"
