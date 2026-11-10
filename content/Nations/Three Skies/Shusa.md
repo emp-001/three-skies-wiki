@@ -12,7 +12,7 @@ infobox:
     - Demonym: Shusa
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/shusa-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Shusa%20Flag.png?raw=true
       caption: ""
   supertitle: Migratory People
   tags:

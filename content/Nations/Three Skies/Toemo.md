@@ -14,7 +14,7 @@ infobox:
     - Demonym: Toemok
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/toemo-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Toemo%20Flag.png?raw=true
       caption: ""
   supertitle: Tributary Kingdom
   tags:

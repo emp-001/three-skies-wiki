@@ -14,7 +14,7 @@ infobox:
     - Demonym: Silan
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/silla-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Silla%20Flag.png?raw=true
       caption: ""
   supertitle: Tributary Kingdom
   tags:

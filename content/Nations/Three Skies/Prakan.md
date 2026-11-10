@@ -12,7 +12,7 @@ infobox:
     - Demonym: Prakanch
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/prakan-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Prakan%20Flag.png?raw=true
       caption: Flag of the League of Flowers
   supertitle: League
   tags:

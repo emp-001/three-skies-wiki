@@ -14,7 +14,7 @@ infobox:
     - Demonym: Tuklut
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/tuklua-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Tuklua%20Flag.png?raw=true
       caption: Flag of the Tuklut High King
   supertitle: High Kingdom
   tags:

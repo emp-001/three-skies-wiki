@@ -14,7 +14,7 @@ infobox:
     - Demonym: Chupachi
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/chupash-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Chupash%20Flag.png?raw=true
       caption: ""
   supertitle: Territory
   tags:

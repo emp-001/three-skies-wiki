@@ -12,7 +12,7 @@ infobox:
     - Demonym: Uwceg • Imperial
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/uqe-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Uqe%20Flag.png?raw=true
       caption: Flag of the Imperial Brood of Uwced
   supertitle: Empire
   tags:

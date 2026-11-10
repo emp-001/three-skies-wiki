@@ -14,7 +14,7 @@ infobox:
     - Demonym: Lath
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/latti-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Latti%20Flag.png?raw=true
       caption: ""
   supertitle: Territory
   showTags: false

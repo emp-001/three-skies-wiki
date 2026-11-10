@@ -14,7 +14,7 @@ infobox:
     - Demonym: Roen
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/aronan-flag.png
+      image: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/Aronan%20Flag.png?raw=true
       caption: ""
   supertitle: Tributary City
   tags:
