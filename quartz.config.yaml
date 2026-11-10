@@ -31,17 +31,16 @@ configuration:
         tertiary: "#cc7600"
         highlight: "transparent"
         textHighlight: "transparent"
-
       darkMode:
         light: "#1a1a1c"
         lightgray: "#2e2e33"
         gray: "#5e5e66"
-        darkgray: "#cccccc"
-        dark: "#ffffff"
+        darkgray: "#dcdce0"
+        dark: '#f0f0f2; } .center a, .center a:visited, .footer a, .footer a:visited { color: #ff9500 !important; text-decoration: none !important; background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } .center a:hover, .footer a:hover { color: #cc7600 !important; } article h1 { color: #ffffff !important; } article h2 { color: #ffffff !important; } article h3 { color: #cccccc !important; } article h4 { color: #cccccc !important; } article h5 { color: #cccccc !important; } article h6 { color: #cccccc !important; } .internal { background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } :focus { outline: none !important;'
         secondary: "#ff9500"
         tertiary: "#cc7600"
         highlight: "transparent"
-        textHighlight: "transparent"
+        textHighlight: "#ffaa00"
 plugins:
   - source: github:oilandrust/quartz-infobox-plugin
     enabled: true
