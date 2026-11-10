@@ -22,25 +22,26 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#333336"
-        lightgray: "#44444a"
+        light: "#f4f4f6"
+        lightgray: "#e2e2e6"
         gray: "#8e8e93"
-        darkgray: "#e2e2e6"
-        dark: '#f0f0f2; } .center a, .center a:visited, .footer a, .footer a:visited { color: #ff9500 !important; text-decoration: none !important; background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } .center a:hover, .footer a:hover { color: #cc7600 !important; } h1, h2, h1 a, h2 a { color: #ffffff !important; } h3, h4, h5, h6 { color: #cccccc !important; } .internal { background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } :focus { outline: none !important;'
+        darkgray: "#444444"
+        dark: "#000000"
         secondary: "#ff9500"
         tertiary: "#cc7600"
         highlight: "transparent"
-        textHighlight: "#ffaa00"
+        textHighlight: "transparent"
+
       darkMode:
         light: "#1a1a1c"
         lightgray: "#2e2e33"
         gray: "#5e5e66"
-        darkgray: "#dcdce0"
-        dark: '#f0f0f2; } .center a, .center a:visited, .footer a, .footer a:visited { color: #ff9500 !important; text-decoration: none !important; background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } .center a:hover, .footer a:hover { color: #cc7600 !important; } h1, h2, h1 a, h2 a { color: #ffffff !important; } h3, h4, h5, h6 { color: #cccccc !important; } .internal { background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } :focus { outline: none !important;'
+        darkgray: "#cccccc"
+        dark: "#ffffff"
         secondary: "#ff9500"
         tertiary: "#cc7600"
         highlight: "transparent"
-        textHighlight: "#ffaa00"
+        textHighlight: "transparent"
 plugins:
   - source: github:oilandrust/quartz-infobox-plugin
     enabled: true

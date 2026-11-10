@@ -36,8 +36,7 @@ The surviving Shusa brought tales of the invading Kiwans to Prakan, in the nasce
 
 In response to their defeat, the Kiwans broke their dams and flooded much of the city, drowning thousands. Remnants of the city floated downriver to Anwakri, the new capital of Three Skies, then only a village. Today, it forms the Sunken District of the city and the ceremonial home of all Shusa.
 
-> [!Did you know?]
-> In Anwakri, there is a yearly tradition memorialising the re-capture of Ulupi by Three Skies and the Shusa, and its subsequent flooding. A mock naval battle is staged in a nearby cove called 'The Scraps'. The event is normally capped off by emptying huge barrels of wine over the revellers, representing the flood.
+In Anwakri, there is a yearly tradition memorialising the re-capture of Ulupi by Three Skies and the Shusa, and its subsequent flooding. A mock naval battle is staged in a nearby cove called 'The Scraps'. The event is normally capped off by emptying huge barrels of wine over the revellers, representing the flood.
 
 ##### Three Skies
 
