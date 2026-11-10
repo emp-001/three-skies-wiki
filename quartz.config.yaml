@@ -46,6 +46,7 @@ plugins:
     enabled: true
     options:
       fallbackToNoteTags: true
+      fontFamily: Lora
       sectionBackground: "#ff9500"
     layout:
       position: right
