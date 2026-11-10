@@ -20,7 +20,6 @@ infobox:
   tags:
     - Nation
     - Three-Skies
-  showTags: false
 ---
 ##### ***Marshland Farmers***
 
