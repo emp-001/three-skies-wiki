@@ -1,7 +1,7 @@
 ---
 title: Three Skies Wiki
 coverImage: https://github.com/emp-001/three-skies-wiki/blob/main/content/Assets/SocMedPreview.png?raw=true
-description: Welcome to the wiki for the world of Three Skies!
+socialDescription: Welcome to the wiki for the world of Three Skies!
 ---
 
 #### *Welcome to the wiki for the world of Three Skies!*
