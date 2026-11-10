@@ -1,6 +1,7 @@
 ---
 title: Three Skies Wiki
 property:
+socialImage:
 ---
 
 #### *Welcome to the wiki for the world of Three Skies!*
