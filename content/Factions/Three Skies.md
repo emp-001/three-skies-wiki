@@ -8,10 +8,6 @@ infobox:
     - Languages: Siychur (Official)
     - Religion: True Faith
     - Demonym: Tolkan
-    - section: Membership
-    - Core Members: Tuklua, Prakan, Iruchu, Shusa
-    - Territories: Chupash, Latti, Etetipawan
-    - Tributaries & Vassals: Aroen, the Etetipawan, Sila, Toemo
   supertitle: Federation
   tags:
     - Three-Skies
@@ -48,6 +44,7 @@ Three Skies has many member states that joined at different stages in its histor
 | [[Hachua]]                     | Tributary | OR 349    | After unifying their clans with the support of Three Skies, Hachua's new ruler offered tribute to Three Skies.                                |
 | [[Aroen]]                      | Tributary | OR 352    | Fearing invasion and lacking heirs, Aroen's archon bequeaths the city to Three Skies in her will. They install friendly local nobles to rule. |
 
+---
 
 ## Leadership
 

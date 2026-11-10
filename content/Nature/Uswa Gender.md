@@ -26,9 +26,9 @@ There is not an even distribution of genders. The numbers of any particular gend
 In times of war, there may be a mass die-off of Dams and Tous, such that some cultures allow gender change to rebalance society.  
  
 
-| ← Relatively Less Common |     |          |     |         |     |         |     | Relatively More Common → |
-| ------------------------ | --- | -------- | --- | ------- | --- | ------- | --- | ------------------------ |
-|                          |     | Kima (B) |     | Tou (D) |     | Dam (C) |     | Kora (A)                 |
+| ← Relatively Less Common |          |     |         |     |         | Relatively More Common → |
+| ------------------------ | -------- | --- | ------- | --- | ------- | ------------------------ |
+|                          | Kima (B) |     | Tou (D) |     | Dam (C) | Kora (A)                 |
 
 Moreover, if rapid population growth is needed, domestic/internal genders may be prioritised at selection.
 

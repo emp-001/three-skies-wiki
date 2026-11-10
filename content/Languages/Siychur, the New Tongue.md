@@ -17,6 +17,8 @@ The language has several writing systems, which serve different purposes:
 | **Low Siychur**                  | Logographic<br><br>Each logogram represents a word, or components of words; morphemes.                                                | Tactile<br><br>Logograms are conveyed via embossed points on thin material, generally copper or wood.       | Widespread<br><br>This is the language of the average citizen, used to send messages cheaply. Most people can read Low Siychur.                 |
 | **High Siychur**                 | Alphabetic<br><br>Each grapheme represents a specific phoneme. These are rigidly defined by the institutions that teach High Siychur. | Written<br><br>Words are written with a stylus on clay tablets, on stone, or with ink on paper substitutes. | Nobles & Intelligentsia<br><br>Generally used for poetry and other leisurely pursuits by learned people and nobles.                             |
 
+---
+
 ## Phonology
 
 The language has four vowel sounds:
@@ -119,6 +121,8 @@ The voiceless labial-velar fricative is an exception, which often forms a ‘hua
 | Blade/Tooth       | Kon       |                                                                                   |
 | Shell             | Aba       |                                                                                   |
 
+---
+
 ##### Numbers
 
 | Number | Word   | Note                                          |
@@ -134,6 +138,8 @@ The voiceless labial-velar fricative is an exception, which often forms a ‘hua
 | Nine   | Wak’   |                                               |
 | Ten    | tʃ'ula | Pron ‘Chula’<br><br>Can be written as ‘Chula’ |
 
+---
+
 ## Names
 
 ##### Structure
@@ -148,6 +154,7 @@ Quality [1] and birth [2] names can be represented in English, but given names [
 Quality [1] and birth [2] names are separated by a dash.
 
 It is uncommon for ‘family’ names to be represented in an individual’s name, due to the reproductive practices of the species. This being said, certain units and even other organisations may have their members take on their name as an appellation, after the given name.
+
 
 ##### Quality Names
 

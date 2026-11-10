@@ -46,7 +46,8 @@ plugins:
     enabled: true
     options:
       fallbackToNoteTags: true
-      fontFamily: Lora
+      fontFamily: Nunito
+      fontSize: 11pz
       sectionBackground: "#ff9500"
     layout:
       position: right
@@ -155,7 +156,7 @@ plugins:
       enableRSS: true
       rssSlug: feed
   - source: github:quartz-community/favicon
-    enabled: true
+    enabled: false
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname

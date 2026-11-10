@@ -12,6 +12,8 @@ The name 'Uswa' is the common name for the species, or more specifically, people
 | Plural    | Uswa |
 | Adjective | Uswa |
 
+---
+
 ## Form
 
 ##### Body
