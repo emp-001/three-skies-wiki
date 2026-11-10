@@ -21,15 +21,15 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f4f4f6"
+        lightgray: "#e2e2e6"
+        gray: "#8e8e93"
+        darkgray: "#18181b"
+        dark: '#18181b; } .center a, .center a:visited, .footer a, .footer a:visited { color: #ff9500 !important; text-decoration: none !important; background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } .center a:hover, .footer a:hover { color: #cc7600 !important; } article h1 { color: #000000 !important; } article h2 { color: #000000 !important; } article h3 { color: #444444 !important; } article h4 { color: #444444 !important; } article h5 { color: #444444 !important; } article h6 { color: #444444 !important; } .internal { background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } :focus { outline: none !important;'
+        secondary: "#ff9500"
+        tertiary: "#cc7600"
+        highlight: "transparent"
+        textHighlight: "#ffaa00"
       darkMode:
         light: "#1a1a1c"
         lightgray: "#2e2e33"
