@@ -31,21 +31,16 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#1a1a1c"
+        lightgray: "#2e2e33"
+        gray: "#5e5e66"
+        darkgray: "#dcdce0"
+        dark: '#f0f0f2; } article h1 { color: #ffe6d9 !important; } article h2 { color: #ffd1b3 !important; } article h3 { color: #ff944d !important; } article h4 { color: #ff751a !important; } article h5 { color: #e65c00 !important; } article h6 { color: #cc5200 !important; } .internal { background-color: transparent !important; background: none !important; outline: none !important; box-shadow: none !important; border: none !important; } :focus { outline: none !important;'
+        secondary: "#20b2aa"
+        tertiary: "#148580"
+        highlight: "transparent"
+        textHighlight: "#ffaa00"
 plugins:
-  - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: tokyo-night
-      mode: both
   - source: github:oilandrust/quartz-infobox-plugin
     enabled: true
     options:
