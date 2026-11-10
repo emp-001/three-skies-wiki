@@ -3,7 +3,7 @@ infobox:
   title: Ahwat
   fields:
     - Capital: N/A
-    - Languages: Upper Alwu; Lower Alwu; Cstinga
+    - Languages: Upper Alwu • Lower Alwu • Cstinga
     - Religions: Countless Regional Faiths
     - Faction: None
     - Government: Tribal Confederation
@@ -18,6 +18,7 @@ infobox:
   tags:
     - Nation
     - Independent
+  showTags: false
 ---
 ##### ***Woodland Clans***
 

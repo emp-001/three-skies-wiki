@@ -3,8 +3,8 @@ infobox:
   title: Tuklua
   fields:
     - Capital: Koba
-    - Languages: Tuklut (Official); Siychur (Trade)
-    - Religions: True Faith (Official); Ancestor Worship (Regional)
+    - Languages: Tuklut (Official) • Siychur (Trade)
+    - Religions: True Faith (Official) • Ancestor Worship (Regional)
     - Faction: Three Skies
     - Government: Monarchy
     - Ruler: |-
@@ -20,6 +20,7 @@ infobox:
   tags:
     - Nation
     - Three-Skies
+  showTags: false
 ---
 ##### ***Highland Farmers***
 

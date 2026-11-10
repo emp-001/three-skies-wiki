@@ -3,13 +3,13 @@ infobox:
   title: Uwced
   fields:
     - Capital: Emon-Arath
-    - Languages: Formal Uwceg; Countless Regional Dialects
-    - Religions: Ay of Purity; Countless Regional Faiths
+    - Languages: Formal Uwceg • Countless Regional Dialects
+    - Religions: Ay of Purity • Countless Regional Faiths
     - Faction: None
     - Government: Coregency
     - Ruler: The Brood
     - Population: Over Fifty Million
-    - Demonym: Uwceg; Imperial
+    - Demonym: Uwceg • Imperial
   images:
     - label: ""
       image: https://emp-001.github.io/testwiki/attachments/uqe-flag.png
@@ -18,6 +18,7 @@ infobox:
   tags:
     - Nation
     - Independent
+  showTags: false
 ---
 ##### ***Wounded Giant***
 

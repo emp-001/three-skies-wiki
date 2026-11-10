@@ -3,8 +3,8 @@ infobox:
   title: Chupash
   fields:
     - Capital: Semrima Ayma
-    - Languages: Hupak; Siychur (Official); Mawi (Ukmaw)
-    - Religions: True Faith; Kecha
+    - Languages: Hupak • Siychur (Official) • Mawi (Ukmaw)
+    - Religions: True Faith • Kecha
     - Faction: Three Skies
     - Government: Territory
     - Ruler: |-
@@ -20,6 +20,7 @@ infobox:
   tags:
     - Nation
     - Three-Skies
+  showTags: false
 ---
 ##### ***Marshland Farmers***
 

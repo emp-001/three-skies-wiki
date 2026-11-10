@@ -45,6 +45,7 @@ plugins:
     enabled: true
     options:
       fallbackToNoteTags: true
+      sectionBackground: "#ff9500"
     layout:
       position: right
       priority: 5

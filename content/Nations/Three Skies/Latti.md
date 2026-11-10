@@ -3,8 +3,8 @@ infobox:
   title: Latti
   fields:
     - Capital: Fikh Ayma
-    - Languages: Lath; Mawi (Oymaw); Siychur (Official)
-    - Religions: The Weeper; True Faith (Minority)
+    - Languages: Lath • Mawi (Oymaw) • Siychur (Official)
+    - Religions: The Weeper • True Faith (Minority)
     - Faction: Three Skies
     - Government: Territory
     - Ruler: |-
@@ -17,6 +17,7 @@ infobox:
       image: https://emp-001.github.io/testwiki/attachments/latti-flag.png
       caption: ""
   supertitle: Territory
+  showTags: false
   tags:
     - Nation
     - Three-Skies
@@ -89,7 +90,6 @@ Labour is their only prayer, and the Lath ritually wash and recant a hymn before
 The Oymaw have mostly converted to the True Faith.
 
 ## Culture  
- 
 
 ##### Values
 

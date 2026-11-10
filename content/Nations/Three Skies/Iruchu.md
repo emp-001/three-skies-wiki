@@ -20,6 +20,7 @@ infobox:
   tags:
     - Nation
     - Three-Skies
+  showTags: false
 ---
 ##### ***Western Zealots***
 

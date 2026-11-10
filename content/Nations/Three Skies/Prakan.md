@@ -3,13 +3,11 @@ infobox:
   title: Prakan
   fields:
     - Capital: None
-    - Languages: |-
-        Siychur
-        Old Prak (Rural Areas)
+    - Languages: Siychur • Old Prak (Rural Areas)
     - Religions: True Faith
     - Faction: Three Skies
     - Government: Classical Republic
-    - Ruler: Ekat, Summa
+    - Ruler: Ekat • Summa
     - Population: Tens of Millions
     - Demonym: Prakanch
   images:
@@ -20,6 +18,7 @@ infobox:
   tags:
     - Nation
     - Three-Skies
+  showTags: false
 ---
 ##### ***River Traders***
 

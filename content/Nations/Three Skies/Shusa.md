@@ -3,7 +3,7 @@ infobox:
   title: Shusa
   fields:
     - Capital: Anwakri (Nominal)
-    - Languages: Old Alwu; Siychur
+    - Languages: Old Alwu • Siychur
     - Religions: True Faith
     - Faction: Three Skies
     - Government: Clan Council
@@ -18,6 +18,7 @@ infobox:
   tags:
     - Nation
     - Three-Skies
+  showTags: false
 ---
 ##### ***Nomadic Craftspeople***
 

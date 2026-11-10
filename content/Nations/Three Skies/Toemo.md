@@ -4,7 +4,7 @@ infobox:
   fields:
     - Capital: Toemo City
     - Languages: Silan
-    - Religions: Sun God; True Faith
+    - Religions: Sun God • True Faith
     - Faction: Three Skies
     - Government: KIngdom
     - Ruler: |-
@@ -20,6 +20,7 @@ infobox:
   tags:
     - Nation
     - Three-Skies
+  showTags: false
 ---
 ##### ***Delta Farmers***
 

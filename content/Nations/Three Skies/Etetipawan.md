@@ -3,22 +3,23 @@ infobox:
   title: Etetipawan
   fields:
     - Capital: N/A
-    - Languages: Kiwanti; Mawi; Siychur (Official)
-    - Religions: True Faith; Ancestor Worship
+    - Languages: Kiwanti • Mawi • Siychur (Official)
+    - Religions: True Faith • Ancestor Worship
     - Faction: Three Skies
-    - Government: Confederation; Triarchy; Tribal
+    - Government: Various • Urban Triarchies
     - Ruler: N/A
     - Population: Tens of Millions
     - Demonym: Pawani
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/etetipawan-flag.png
+      image: Three-Skies/Attachments/Etetipawan Flag.png
       caption: ""
   supertitle: Client Confederation
   tags:
     - Nation
     - Three-Skies
   subtitle: Alternatively 'Etipa''
+  showTags: false
 ---
 ##### ***Land of Two Peoples***
 

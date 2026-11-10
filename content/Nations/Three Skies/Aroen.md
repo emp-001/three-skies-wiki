@@ -4,7 +4,7 @@ infobox:
   fields:
     - Capital: Aroen City
     - Languages: Silan
-    - Religions: Sun God; True Faith
+    - Religions: Sun God • True Faith
     - Faction: Three Skies
     - Government: City Council
     - Ruler: |-
@@ -14,11 +14,13 @@ infobox:
     - Demonym: Roen
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/aroen-flag.png
+      image: https://emp-001.github.io/testwiki/attachments/aronan-flag.png
       caption: ""
   supertitle: Tributary City
   tags:
     - Nation
+    - Three-Skies
+  showTags: false
 ---
 ##### ***Gateway to the North***
 

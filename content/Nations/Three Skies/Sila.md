@@ -4,7 +4,7 @@ infobox:
   fields:
     - Capital: Maen
     - Languages: Silan
-    - Religions: Sun God; True Faith
+    - Religions: Sun God • True Faith
     - Faction: Three Skies
     - Government: Kingdom
     - Ruler: |-
@@ -14,11 +14,13 @@ infobox:
     - Demonym: Silan
   images:
     - label: ""
-      image: https://emp-001.github.io/testwiki/attachments/sila-flag.png
+      image: https://emp-001.github.io/testwiki/attachments/silla-flag.png
       caption: ""
   supertitle: Tributary Kingdom
   tags:
     - Nation
+    - Three-Skies
+  showTags: false
 ---
 ##### ***Master Builders***
 
