@@ -1,4 +1,5 @@
 ---
+socialImage: https://emp-001.github.io/three-skies-wiki/assets/socmedpreview.png
 infobox:
   title: Three Skies
   fields:
